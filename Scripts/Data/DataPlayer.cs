@@ -10,7 +10,7 @@ public class DataPlayer : GameArtData
 	public UnityAction<GameObject> instanceAction; 
 	
 	public List<WeaponData> weapons;
-	public Powerups health;
+	//public Powerups health;
 	public UnityEvent onRunEvent;
 
 	public ClothesData pants;
